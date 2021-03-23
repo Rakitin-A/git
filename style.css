@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+
+}
+
+.title {
+    padding-top: 100px;
+    color: coral;
+    text-align: center;
+}
+
+.subtitle{
+    color: cornflowerblue;
+    text-align: center;
+}
+
+.btn{
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
